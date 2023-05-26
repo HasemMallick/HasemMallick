@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/HasemMallick](https://github.com/HasemMallick)
 
-- 💬 Ask me about **GIS and Web-GIS**
+- 💬 Ask me about **Remote Sensing, GIS and Web-GIS**
 
 - 📫 How to reach me **mallickhasem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hasem mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasem mallick" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hasem-mallick-69366b196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasem mallick" height="30" width="40" /></a>
 <a href="https://instagram.com/h_a_s_e_m_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_a_s_e_m_" height="30" width="40" /></a>
 </p>
 
