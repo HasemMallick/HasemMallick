@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Hasem Mallick</h1>
 <h3 align="center">I'm a passionate Web-GIS developer from India</h3>
 
-<img align="right" alt="WebGISDev" width="400" src="https://www.esriuk.com/content/dam/esrisites/en-us/arcgis/products/city-engine/assets/city-engine-banner-decor.gif">
+<img align="right" alt="WebGISDev" width="400" src="https://www.sgligis.com/wp-content/uploads/Property-Tax-Analysis-using-GIS.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasemmallick&label=Profile%20views&color=0e75b6&style=flat" alt="hasemmallick" /> </p>
