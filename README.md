@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **GeoServer, PostGIS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HasemMallick](https://github.com/HasemMallick)
+- 👨‍💻 All of my projects are available at [https://github.com/HasemMallick](https://github.com/HasemMallick/projects)
 
 - 💬 Ask me about **Remote Sensing, GIS and Web-GIS**
 
