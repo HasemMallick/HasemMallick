@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Hasem Mallick</h1>
 <h3 align="center">I'm a passionate Data Scentist/Geospatial Data Scentist from India</h3>
-<p aign="center">I am pretty comfortable with Frontend Development using React & Vue</p>
+<p align="center">I am pretty comfortable with Frontend Development using React & Vue</p>
 
 <img align="right" alt="WebGISDev" width="400" src="https://www.sgligis.com/wp-content/uploads/Property-Tax-Analysis-using-GIS.gif">
 
