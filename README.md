@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasemmallick&label=Profile%20views&color=0e75b6&style=flat" alt="hasemmallick" /> </p>
 
-- 🌱 I’m currently learning **GeoServer, PostGIS**
+- 🌱 I’m currently learning **Data Science and Geospatal Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HasemMallick](https://github.com/HasemMallick/projects)
 
