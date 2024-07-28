@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Remote Sensing, GIS and Web-GIS**
 
 - 📫 How to reach me **mallickhasem@gmail.com**
-- LinkedIn: [https://linkedIn.com/in/hasemmallick]
+- 📫 LinkedIn: [https://linkedIn.com/in/hasemmallick]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
