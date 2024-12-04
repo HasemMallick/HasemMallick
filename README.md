@@ -17,18 +17,22 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Hasem Mallick</h1>
 <h3 align="center">I'm a passionate Full Stack GIS Developer & GeoSpatial Data Analyst/Scentist from India</h3>
-<ul>
-  <li><span>My Tech Stack</span></li>
-  <li>Html</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>React</li>
-  <li>Vue</li>
-  <li>Leaflet.js</li>
-  <li>OpenLayers 3</li>
-  <li>Turf.js</li>
-  <li>Turf.js</li>
-</ul>
+<div style="disply: flex; justify:start;">
+  <div> 
+    <ul>
+      <li><span>My Tech Stack: <b>Frontend & Mapping</b> </span></li>
+      <li>Html</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>React</li>
+      <li>Vue</li>
+      <li>Leaflet.js</li>
+      <li>OpenLayers 3</li>
+      <li>Turf.js</li>
+      <li>Turf.js</li>
+    </ul>
+  </div>
+</div>
 <p align="center">I am pretty comfortable with Frontend Development using  <strong> React & Vue </strong></p>
 
 <img align="right" alt="WebGISDev" width="400" src="https://www.sgligis.com/wp-content/uploads/Property-Tax-Analysis-using-GIS.gif">
