@@ -47,6 +47,36 @@ Here are some ideas to get you started:
   </div>
 </div>
 
+<div>
+  <div style="width: 48%; float: left; padding-right: 2%;">
+    <ul>
+      <li><span>My Tech Stack: <b>Frontend & Mapping</b></span></li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>React</li>
+      <li>Vue</li>
+      <li>Leaflet.js</li>
+      <li>OpenLayers 3</li>
+      <li>Turf.js</li>
+    </ul>
+  </div>
+
+  <div style="width: 48%; float: left;">
+    <ul>
+      <li><span>My Tech Stack: <b>Backend & Database</b></span></li>
+      <li>Python</li>
+      <li>Django</li>
+      <li>GeoDjango</li>
+      <li>Rest Framework</li>
+      <li>GIS Rest Framework</li>
+      <li>PostgreSQL</li>
+      <li>PostGIS</li>
+      <li>pgRouting</li>
+    </ul>
+  </div>
+</div>
+
 <p align="center">I am pretty comfortable with Frontend Development using <strong>React & Vue</strong></p>
 
 <img align="right" alt="WebGISDev" width="400" src="https://www.sgligis.com/wp-content/uploads/Property-Tax-Analysis-using-GIS.gif">
