@@ -1,7 +1,23 @@
 ### Hi there 👋
 
+<!--
+**HasemMallick/HasemMallick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <h1 align="center">Hi 👋, I'm Hasem Mallick</h1>
 <h3 align="center">I'm a passionate Full Stack GIS Developer & GeoSpatial Data Analyst/Scientist from India</h3>
+
 <div style="display: flex; justify-content: start;">
   <div> 
     <ul>
@@ -39,7 +55,7 @@
 
 - 🌱 I’m currently learning **Data Science and Geospatial Data Science**
 - 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/HasemMallick/projects)
-- 💬 Ask me about **Remote Sensing, GIS and Web-GIS**
+- 💬 Ask me about **Remote Sensing, GIS, and Web-GIS**
 - 📫 How to reach me: **mallickhasem@gmail.com**
 - 📫 LinkedIn: [Hasem Mallick LinkedIn](https://linkedin.com/in/hasemmallick)
 
@@ -64,5 +80,22 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <!-- Add additional icons as necessary -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
+  </a>
+  <a href="https://leafletjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leaflet/leaflet-original.svg" alt="leafletjs" width="40" height="40"/>
+  </a>
+  <a href="https://openlayers.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openlayers/openlayers-original.svg" alt="openlayers" width="40" height="40"/>
+  </a>
 </p>
