@@ -1,51 +1,7 @@
 ### Hi there 👋
 
-<!--
-**HasemMallick/HasemMallick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Hasem Mallick</h1>
 <h3 align="center">I'm a passionate Full Stack GIS Developer & GeoSpatial Data Analyst/Scientist from India</h3>
-
-<div style="display: flex; justify-content: start;">
-  <div> 
-    <ul>
-      <li><span>My Tech Stack: <b>Frontend & Mapping</b></span></li>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript</li>
-      <li>React</li>
-      <li>Vue</li>
-      <li>Leaflet.js</li>
-      <li>OpenLayers 3</li>
-      <li>Turf.js</li>
-    </ul>
-  </div>
-  <div> 
-    <ul>
-      <li><span>My Tech Stack: <b>Backend & Database</b></span></li>
-      <li>Python</li>
-      <li>Django</li>
-      <li>GeoDjango</li>
-      <li>Rest Framework</li>
-      <li>GIS Rest Framework</li>
-      <li>PostgreSQL</li>
-      <li>PostGIS</li>
-      <li>pgRouting</li>
-    </ul>
-  </div>
-</div>
 
 <div>
   <div style="width: 48%; float: left; padding-right: 2%;">
