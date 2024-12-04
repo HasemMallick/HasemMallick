@@ -33,6 +33,28 @@
   </div>
 </div>
 
+- Fontend & Mapping Skills
+  - asdf
+  - asdf
+  - asd
+  - fasdf
+  - asdf
+  - asdfa
+  - sdfa
+  - sdfa
+  - sdfa
+  - sd
+ 
+- Backend & Database Skills
+  - adf
+  - sdfa
+  - sdf
+  - asd
+  - fas
+  - dfa
+  - sdf
+  - asdf
+
 <p align="center">I am pretty comfortable with Frontend Development using <strong>React & Vue</strong></p>
 
 <img align="right" alt="WebGISDev" width="400" src="https://www.sgligis.com/wp-content/uploads/Property-Tax-Analysis-using-GIS.gif">
