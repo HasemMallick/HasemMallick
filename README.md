@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hasem Mallick</h1>
 <h3 align="center">I'm a passionate <em> <b>Full Stack GIS Developer & GeoSpatial Data Analyst/Scientist</b> </em> from India</h3>
 
-- **Fontend & Mapping Skills**
+- **Froentend & Mapping Skills**
   - HTML
   - CSS
   - JavaScript
@@ -12,7 +12,7 @@
   - Leaflet
   - OpenLayers
   - Turf.js
-  - Other GIS librires 
+  - Other GIS libraries & packages
  
 - **Backend & Database Skills**
   - Python
@@ -24,15 +24,14 @@
   - PostgresQL
   - PostGIS
   - pg Route
-
-<p align="center">I am pretty comfortable with Frontend Development using <strong>React & Vue</strong></p>
+  - Other GIS libraries & packages
 
 <img align="right" alt="WebGISDev" width="400" src="https://www.sgligis.com/wp-content/uploads/Property-Tax-Analysis-using-GIS.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasemmallick&label=Profile%20views&color=0e75b6&style=flat" alt="hasemmallick" /> </p>
 
-- 🌱 I’m currently learning **Data Science and Geospatial Data Science**
-- 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/HasemMallick/projects)
+- 🌱 I’m currently studying **ML & GeoAI**
+- 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/HasemMallick/projects) 
 - 💬 Ask me about **Remote Sensing, GIS, and Web-GIS**
 - 📫 How to reach me: **mallickhasem@gmail.com**
 - 📫 LinkedIn: [Hasem Mallick LinkedIn](https://linkedin.com/in/hasemmallick)
