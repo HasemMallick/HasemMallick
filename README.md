@@ -37,18 +37,21 @@
 - 📫 LinkedIn: [Hasem Mallick LinkedIn](https://linkedin.com/in/hasemmallick)
 
 <h3 align="center">My GeoSpatial Data Analyst/Scientist Skills</h3>
-- Numpy
-- Pandas
-- GeoPandas
-- MatploLib
-- Google Earth Engine (JavaScript API)
-- Google Earth Engine (Python API)
-- GeeMap
-- LeafMap
-- RasterIO
-- OSMnx
-- NetworkX
-- etc...
+
+
+- **Data Sceince Skills**
+  - Numpy
+  - Pandas
+  - GeoPandas
+  - MatploLib
+  - Google Earth Engine (JavaScript API)
+  - Google Earth Engine (Python API)
+  - GeeMap
+  - LeafMap
+  - RasterIO
+  - OSMnx
+  - NetworkX
+  - etc...
 
 
 <h3 align="left">Connect with me:</h3>
