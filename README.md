@@ -32,6 +32,19 @@ Here are some ideas to get you started:
       <li>Turf.js</li>
     </ul>
   </div>
+  <div> 
+    <ul>
+      <li><span>My Tech Stack: <b>Backend & Database</b> </span></li>
+      <li>Python</li>
+      <li>Django</li>
+      <li>GeoDjango</li>
+      <li>Rest Framework</li>
+      <li>GIS Rest Framework</li>
+      <li>PostgresQL</li>
+      <li>PostGIS</li>
+      <li>pg Route</li>
+    </ul>
+  </div>
 </div>
 <p align="center">I am pretty comfortable with Frontend Development using  <strong> React & Vue </strong></p>
 
