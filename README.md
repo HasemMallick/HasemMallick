@@ -27,13 +27,6 @@
   - Other GIS libraries & packages
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasemmallick&label=Profile%20views&color=0e75b6&style=flat" alt="hasemmallick" /> </p>
-
-- 🌱 I’m currently studying **ML & GeoAI**
-- 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/HasemMallick/) 
-- 💬 Ask me about **Remote Sensing, GIS, Web-GIS, GeoSpatial Data Science**
-- 📫 How to reach me: **mallickhasem@gmail.com**
-- 📫 LinkedIn: [Hasem Mallick LinkedIn](https://linkedin.com/in/hasemmallick)
 
 <h3 align="center">My GeoSpatial Data Analyst/Scientist Skills</h3>
 
@@ -64,3 +57,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_a_s_e_m_" height="30" width="40" />
   </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasemmallick&label=Profile%20views&color=0e75b6&style=flat" alt="hasemmallick" /> </p>
+
+- 🌱 I’m currently studying **ML & GeoAI**
+- 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/HasemMallick/) 
+- 💬 Ask me about **Remote Sensing, GIS, Web-GIS, GeoSpatial Data Science**
+- 📫 How to reach me: **mallickhasem@gmail.com**
+- 📫 LinkedIn: [Hasem Mallick LinkedIn](https://linkedin.com/in/hasemmallick)
