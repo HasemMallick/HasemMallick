@@ -43,10 +43,18 @@
   - RasterIO
   - OSMnx
   - NetworkX
+  - Vector Packages & Raster Packages
   - etc...
 
+<h3 align="center">Machine Learning & GeoAI Skills</h3>
+
 - **Machine Learning & GeoAI Skills**
-  - Learning
+  - Supervised Classification
+  - Unsupervised Classification
+  - Principle Component Analysis (PCA)
+  - Clustring
+  - Object/Freature Detectation
+  - etc
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
