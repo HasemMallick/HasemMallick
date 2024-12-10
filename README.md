@@ -26,13 +26,12 @@
   - pg Route
   - Other GIS libraries & packages
 
-<img align="right" alt="WebGISDev" width="400" src="https://www.sgligis.com/wp-content/uploads/Property-Tax-Analysis-using-GIS.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasemmallick&label=Profile%20views&color=0e75b6&style=flat" alt="hasemmallick" /> </p>
 
 - 🌱 I’m currently studying **ML & GeoAI**
-- 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/HasemMallick/projects) 
-- 💬 Ask me about **Remote Sensing, GIS, and Web-GIS**
+- 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/HasemMallick/) 
+- 💬 Ask me about **Remote Sensing, GIS, Web-GIS, GeoSpatial Data Science**
 - 📫 How to reach me: **mallickhasem@gmail.com**
 - 📫 LinkedIn: [Hasem Mallick LinkedIn](https://linkedin.com/in/hasemmallick)
 
@@ -53,6 +52,8 @@
   - NetworkX
   - etc...
 
+- **Machine Learning & GeoAI Skills**
+  - Learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
