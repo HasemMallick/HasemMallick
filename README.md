@@ -71,5 +71,6 @@
 - 🌱 I’m currently studying **ML & GeoAI**
 - 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/HasemMallick/) 
 - 💬 Ask me about **Remote Sensing, GIS, Web-GIS, GeoSpatial Data Science**
+- 📫 How to reach me: **hasem.gis.services@gmail.com**
 - 📫 How to reach me: **mallickhasem@gmail.com**
 - 📫 LinkedIn: [Hasem Mallick LinkedIn](https://linkedin.com/in/hasemmallick)
